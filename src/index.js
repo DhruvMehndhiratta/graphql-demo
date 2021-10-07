@@ -2,7 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import LifeCycle from '../src/components/LifeCycle';
 import reportWebVitals from './reportWebVitals';
+import Mounting from '../src/components/LifeCycle/Mounting'
 
 ReactDOM.render(
   <React.StrictMode>
